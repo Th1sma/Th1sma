@@ -1,4 +1,4 @@
-### :woman_technologist: About Me :
+### :woman_technologist: A propos de moi :
 - Je suis un étudiant en Bachelor CSI (Concepteur de Systèmes d'Information) !
 - :mailbox: Mon LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-mathis-blue?style=flat&logo=Linkedin&logoColor=white)](linkedin.com/in/mathis-niveau17)
 
@@ -26,7 +26,7 @@
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Th1sma&theme=dark&background=000000)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
