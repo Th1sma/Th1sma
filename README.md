@@ -1,5 +1,5 @@
 ### :woman_technologist: A propos de moi :
-- Je suis un étudiant en Bachelor CSI (Concepteur de Systèmes d'Information) !
+- Passionné par l'infrastructure réseau et la sécurité !
 - :mailbox: Mon LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-mathis-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/mathis-niveau17/)
 
 ---
