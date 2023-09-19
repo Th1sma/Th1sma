@@ -22,6 +22,6 @@
 
 ---
 ### Retrouvez moi aussi sur TryHackMe :
-<script src="https://tryhackme.com/badge/2235000"></script>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Th1sma.png" alt="TryHackMe">
 
 
