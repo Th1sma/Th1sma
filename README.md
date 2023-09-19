@@ -22,4 +22,6 @@
 
 ---
 ### Retrouvez moi aussi sur TryHackMe :
+<script src="https://tryhackme.com/badge/2235000"></script>
+
 
