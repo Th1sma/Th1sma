@@ -19,7 +19,7 @@
 </div>
 
 ---
-### Les sites sur lesquels me retrouver :
+### Mon TryHackMe :
 <img src="https://tryhackme-badges.s3.amazonaws.com/Th1sma.png" alt="TryHackMe">
 
 
