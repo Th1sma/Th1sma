@@ -21,5 +21,4 @@
 ---
 ### Mon TryHackMe :
 <img src="https://tryhackme-badges.s3.amazonaws.com/Th1sma.png" alt="TryHackMe"> 
-<img src="https://tryhackme.com/Th1sma/badges/30-day-streak" alt="TryHackMe">
 
