@@ -1,6 +1,6 @@
 ### :man_technologist: A propos de moi :
 - :mortar_board: Étudiant en Bachelor CSI (Concepteur de Systèmes d'Information), passionné par les réseaux, les systèmes et la sécurité informatique !
-- 🔍 A la recherche d'une alternance dans la sécurité des SI !
+- 🔍 A la recherche d'une alternance dans la sécurité des SI pour la rentrée 2024!
 ---
 
 ### :hammer_and_wrench: Mes compétences :
