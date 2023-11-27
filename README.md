@@ -25,6 +25,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=transparent" alt="th1sma" width="500" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=transparent" alt="th1sma" width="500" height="200"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=transparent" alt="th1sma" width="300" height="150"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=transparent" alt="th1sma" width="300" height="150"/>
 </p>
