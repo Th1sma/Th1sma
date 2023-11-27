@@ -1,7 +1,7 @@
 <h1 align="center">Salut 👋, Je m'appelle Mathis</h1>
 <h3 align="center">Passionné de cybersécurité, réseau et système !</h3>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Rejoignez moi sur ces plateformes :</h3>
 <p align="left">
   <a href="https://linkedin.com/in/mathis-niveau17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis-niveau17" height="30" width="30" /></a>
   <a style="margin-left: 10 px;" href="https://tryhackme.com/p/Th1sma" target="blank"><img align="center" src="https://notamax.be/wp-content/uploads/2021/01/tryhackme_basicpentesting.png" alt="mathis-niveau17" height="40" width="70" /></a>
