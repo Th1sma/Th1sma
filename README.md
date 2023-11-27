@@ -22,7 +22,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/></a>
-  <a href="https://www.js.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js/js.svg" alt="JS" width="50" height="50"/></a>
+  <a href="https://www.w3.org/js/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/js/js.svg" alt="JS" width="50" height="50"/></a>
 </p>
 
 <h3 align="left">Autres informations :</h3>
