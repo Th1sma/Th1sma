@@ -26,5 +26,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=transparent" alt="th1sma" width="400" height="200"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=transparent" alt="th1sma" width="400" height="200"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=transparent" alt="th1sma" width="400" height="300"/>
 </p>
