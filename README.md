@@ -1,5 +1,5 @@
 <h1 align="center">Salut 👋, Je m'appelle Mathis</h1>
-<h3 align="center">Passionné de cybersécurité, les réseaux et systèmes !</h3>
+<h3 align="center">Passionné de cybersécurité, de réseau et système !</h3>
 
 <h3 align="left">Rejoignez moi sur ces plateformes :</h3>
 <p align="left">
