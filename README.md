@@ -25,6 +25,6 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact" alt="th1sma" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=radical" alt="th1sma" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&" alt="th1sma" />
 </p>
