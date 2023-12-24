@@ -22,6 +22,7 @@
   <a href="https://www.php.net" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="50" height="50"/></a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/></a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/python/python.svg" alt="python" width="50" height="50"/></a>
   <a href="https://devdocs.io/javascript/" target="_blank" rel="noreferrer"><img src="https://imgs.search.brave.com/114ko0T0GeEbrk8O7iTowqYF3xAFrtLpgregwP4OZds/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ncmFm/aWthcnQuZnIvdXBs/b2Fkcy9pY29ucy9q/YXZhc2NyaXB0LnN2/Zw.svg" alt="JS" width="50" height="50"/></a>
 </p>
 
