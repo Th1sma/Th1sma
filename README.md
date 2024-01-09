@@ -30,7 +30,7 @@
   <img src="https://imgs.search.brave.com/114ko0T0GeEbrk8O7iTowqYF3xAFrtLpgregwP4OZds/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ncmFm/aWthcnQuZnIvdXBs/b2Fkcy9pY29ucy9q/YXZhc2NyaXB0LnN2/Zw.svg" alt="JS" width="50" height="50"/>
 </p>
 
-<h3>Quelques-unes de mes statistiques. :</h3>
+<h3>Quelques-unes de mes statistiques :</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=dark" alt="th1sma" width="400" height="200"/>
