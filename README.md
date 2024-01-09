@@ -1,6 +1,6 @@
 <h1>Salut 👋, Je m'appelle Mathis</h1>
 <h2>Actuellement étudiant en Bachelor CSI</h2>
-<p>Très intéressé par l'administration système et réseau, mais aussi par la cybersécurité (blue team) !</p>
+<p>Très intéressé par l'administration système et réseau, ainsi que par la cybersécurité (équipe bleue) !</p>
 <h3>Langages et outils utilisés :</h3>
 <p>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
