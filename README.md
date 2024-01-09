@@ -1,7 +1,7 @@
-<h1 align="center">Salut 👋, Je m'appelle Mathis</h1>
-<h3 align="center">Passionné de cybersécurité, de réseau et de système !</h3>
+<h1>Salut 👋, Je m'appelle Mathis</h1>
+<h3>Passionné de cybersécurité, de réseau et de système !</h3>
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/mathis-niveau17" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis-niveau17" height="30" width="30" />
   </a>
