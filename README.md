@@ -1,5 +1,5 @@
 <h1>Salut 👋, Je m'appelle Mathis</h1>
-<h2>Actuellement étudiant en Bachelor CSI (ICSSA x 3iL Ingénieur)</h2>
+<h2>Actuellement étudiant en Bachelor CSI</h2>
 
 <h3>Langages et outils utilisés :</h3>
 <p>
