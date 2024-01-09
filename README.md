@@ -1,5 +1,6 @@
 <h1>Salut 👋, Je m'appelle Mathis</h1>
 <h3>Passionné de cybersécurité, de réseau et de système !</h3>
+---
 
 <p>
   <a href="https://linkedin.com/in/mathis-niveau17" target="blank">
@@ -10,8 +11,7 @@
   </a>
 </p>
 
-<h3>Langages et outils :</h3>
-
+<h3>Langages et outils utilisés :</h3>
 <p>
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
@@ -30,15 +30,9 @@
   <img src="https://imgs.search.brave.com/114ko0T0GeEbrk8O7iTowqYF3xAFrtLpgregwP4OZds/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9ncmFm/aWthcnQuZnIvdXBs/b2Fkcy9pY29ucy9q/YXZhc2NyaXB0LnN2/Zw.svg" alt="JS" width="50" height="50"/>
 </p>
 
-<h3 align="center">Autres informations :</h3>
+<h3>Quelques-unes de mes statistiques. :</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=dark" alt="th1sma" width="400" height="200"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=dark" alt="th1sma" width="400" height="200"/>
-</p>
-
----
-
-<p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=th1sma.th1sma" alt="Visitors">
 </p>
