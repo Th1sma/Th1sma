@@ -27,7 +27,7 @@
 </p>
 
 <h3>Mes plateformes :</h3>
-<p>Vous pouvez me retrouver sur LinkedIn :  <a href="https://linkedin.com/in/mathis-niveau17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis-niveau17" height="20" width="20" /></a></p>
+<p>Vous pouvez me retrouver sur LinkedIn :  <a href="https://linkedin.com/in/mathis-niveau17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis-niveau17" height="15" width="15" /></a></p>
 <p>Mais aussi sur TryHackMe : <a href="https://tryhackme.com/p/Th1sma" target="blank">
-    <img src="https://notamax.be/wp-content/uploads/2021/01/tryhackme_basicpentesting.png" alt="mathis-niveau17" height="20" width="50" />
+    <img src="https://notamax.be/wp-content/uploads/2021/01/tryhackme_basicpentesting.png" alt="mathis-niveau17" height="15" width="15" />
   </a></p>
