@@ -28,6 +28,4 @@
 
 <h3>Mes plateformes :</h3>
 <p>Vous pouvez me retrouver sur LinkedIn :  <a href="https://linkedin.com/in/mathis-niveau17" target="blank"><img src="https://store-images.s-microsoft.com/image/apps.31120.9007199266245564.44dc7699-748d-4c34-ba5e-d04eb48f7960.bc4172bd-63f0-455a-9acd-5457f44e4473" alt="mathis-niveau17" height="20" width="20" /></a></p>
-<p style="font-weight="bold";">Mais aussi sur TryHackMe : <a href="https://tryhackme.com/p/Th1sma" target="blank">
-    <img src="https://cdn-1.webcatalog.io/catalog/tryhackme/tryhackme-icon-filled-256.png?v=1669863995747" alt="mathis-niveau17" height="20" width="20" />
-  </a></p>
+<p>Mais aussi sur TryHackMe : <a href="https://tryhackme.com/p/Th1sma" target="blank"><img src="https://cdn-1.webcatalog.io/catalog/tryhackme/tryhackme-icon-filled-256.png?v=1669863995747" alt="mathis-niveau17" height="20" width="20" /></a></p>
