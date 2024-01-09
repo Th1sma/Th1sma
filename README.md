@@ -26,12 +26,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=dark" alt="th1sma" width="400" height="200"/>
 </p>
 
-<h3>Me retrouvez les plateformes suivantes :</h3>
-<p>
-  <a href="https://linkedin.com/in/mathis-niveau17" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis-niveau17" height="30" width="30" />
-  </a>
-  <a href="https://tryhackme.com/p/Th1sma" target="blank">
-    <img src="https://notamax.be/wp-content/uploads/2021/01/tryhackme_basicpentesting.png" alt="mathis-niveau17" height="40" width="70" />
-  </a>
-</p>
+<h3>Mes plateformes :</h3>
+<p>Vous pouvez me retrouver sur LinkedIn :  <a href="https://linkedin.com/in/mathis-niveau17" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mathis-niveau17" height="20" width="20" /></a></p>
+<p>Mais aussi sur TryHackMe : <a href="https://tryhackme.com/p/Th1sma" target="blank">
+    <img src="https://notamax.be/wp-content/uploads/2021/01/tryhackme_basicpentesting.png" alt="mathis-niveau17" height="20" width="50" />
+  </a></p>
