@@ -10,6 +10,7 @@ Fervent de cybersécurité (**blue team**) et d'administration d'infrastructure 
 - Vous pouvez aussi me retrouver sur LinkedIn. Si vous êtes intéressé par mon profil, ***contactez-moi*** !
 
 ## **Outils et langages utilisés**
+<span>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="50" height="50"/>
@@ -21,6 +22,7 @@ Fervent de cybersécurité (**blue team**) et d'administration d'infrastructure 
 <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
+</span>
 
 ## **Informations sur mon github**
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=dark" alt="th1sma" width="100%" height="200"/>
