@@ -6,8 +6,8 @@ Je suis étudiant en Bachelor Concepteur de Systèmes d'Information spécialisé
 Fervent de cybersécurité (**blue team**) et d'administration d'infrastructure S.I. Je suis proactif dans ces domaines en réalisant différents projets autour de la virtualisation, de l'administration système et réseau, mais aussi autour du développement PHP, C++, Bash, Python...
 
 ## **Mes réseaux**
-- Vous pouvez me retrouver sur **TryHackMe**. (Objectif ***top 1000*** sur la plateforme) !
-- Vous pouvez aussi me retrouver sur LinkedIn. Si vous êtes intéressé par mon profil, ***contactez-moi*** !
+- Vous pouvez me retrouver sur [**TryHackMe**](https://tryhackme.com/p/Th1sma). (Objectif ***top 1000*** sur la plateforme) !
+- Vous pouvez aussi me retrouver sur [**LinkedIn**](https://www.linkedin.com/in/mathis-niveau17/). Si vous êtes intéressé par mon profil, ***contactez-moi*** !
 
 ## **Outils et langages utilisés**
 <span>
@@ -23,6 +23,3 @@ Fervent de cybersécurité (**blue team**) et d'administration d'infrastructure 
 <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="50" height="50"/>
 <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="50" height="50"/>
 </span>
-
-## **Informations sur mon github**
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=dark" alt="th1sma" width="100%" height="200"/>
