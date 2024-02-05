@@ -9,7 +9,7 @@ Fervent de cybersécurité (**blue team**) et d'administration d'infrastructure 
 - Vous pouvez me retrouver sur [**TryHackMe**](https://tryhackme.com/p/Th1sma). Prochain objectif : ***top 1000*** sur la plateforme !
 - Vous pouvez aussi me retrouver sur [**LinkedIn**](https://www.linkedin.com/in/mathis-niveau17/). Si vous êtes intéressé par mon profil, ***contactez-moi*** !
 
-## **Outils et langages utilisés**
+## **Outils et langages utilisés** 🧰
 <span>
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="50" height="50"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="50" height="50"/>
