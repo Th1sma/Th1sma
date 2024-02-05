@@ -6,7 +6,7 @@ Je suis étudiant en Bachelor Concepteur de Systèmes d'Information spécialisé
 Fervent de cybersécurité (**blue team**) et d'administration d'infrastructure S.I. Je suis proactif dans ces domaines en réalisant différents projets autour de la virtualisation, de l'administration système et réseau, mais aussi autour du développement PHP, C++, Bash, Python...
 
 ## **Mes réseaux**
-- Vous pouvez me retrouver sur [**TryHackMe**](https://tryhackme.com/p/Th1sma). (Prochaine objectif : ***top 1000*** sur la plateforme) !
+- Vous pouvez me retrouver sur [**TryHackMe**](https://tryhackme.com/p/Th1sma). (Prochain objectif : ***top 1000*** sur la plateforme) !
 - Vous pouvez aussi me retrouver sur [**LinkedIn**](https://www.linkedin.com/in/mathis-niveau17/). Si vous êtes intéressé par mon profil, ***contactez-moi*** !
 
 ## **Outils et langages utilisés**
