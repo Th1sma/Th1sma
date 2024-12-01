@@ -2,4 +2,4 @@
 [![TryHackme Badge](https://img.shields.io/badge/TryHackMe-Profil-red)](https://tryhackme.com/r/p/Th1sma)
 [![CryptoHack](https://img.shields.io/badge/CryptoHack-Profil-red)](https://cryptohack.org/user/Th1sma_/)
 # MES STATS :
-![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2235000)
+<img src="https://tryhackme-badges.s3.amazonaws.com/Th1sma.png" alt="Your Image Badge" />
