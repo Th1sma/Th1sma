@@ -6,6 +6,8 @@
 
 🖥️ Système Linux et Windows
 
+🌐 Architecture réseau
+
 📊 Pilotage de projet cybersécurité
 
 🏛️ Gouvernance SSI & Conformité DORA
