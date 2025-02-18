@@ -3,3 +3,9 @@
 [![CryptoHack](https://img.shields.io/badge/CryptoHack-Profil-red)](https://cryptohack.org/user/Th1sma_/)
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Th1sma.png" alt="Your Image Badge" />
+
+##⚡ Technologies & Intérêts :
+🛠️ Tests d'intrusion & Hacking éthique
+🔐 Cryptographie & Cybersécurité
+🖥️ Linux & Scripting
+🧠 Défis CTF & Résolution de problèmes
