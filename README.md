@@ -10,7 +10,7 @@
 
 📊 Pilotage de projet cybersécurité
 
-🏛️ Gouvernance SSI & Conformité DORA
+🏛️ Gouvernance SSI & conformité DORA
 
 ## Mes plateformes :
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profil-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mathisniveau/)
