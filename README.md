@@ -4,7 +4,7 @@
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/Th1sma.png" alt="Your Image Badge" />
 
-## ⚡Technologies & Intérêts :
+## ⚡Compétences :
 
 🛠️ Tests d'intrusion & Hacking éthique
 
