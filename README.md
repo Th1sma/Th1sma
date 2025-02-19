@@ -9,11 +9,11 @@ First-year Master's degree student in Infrastructure and Cybersecurity Managemen
 <p>📊 -> Cybersecurity Project Management</p>
 <p>🏛️ -> SSI Governance & DORA Compliance</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact" alt="th1sma" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=radical" alt="th1sma" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th1sma&show_icons=true&locale=en" alt="th1sma" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th1sma&show_icons=true&locale=en&theme=radical" alt="th1sma" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&" alt="th1sma" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=radical" alt="th1sma" /></p>
 
 <h3>⚡My platforms</h3>
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/mathisniveau/)
