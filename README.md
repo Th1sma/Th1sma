@@ -10,13 +10,11 @@ First-year Master's degree student in Infrastructure and Cybersecurity Managemen
 <p>🏛️ -> SSI Governance & DORA Compliance</p>
 
 <h3>⚡ My Platforms</h3>
-<span>
-  
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathisniveau/)  
-[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-darkred?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Th1sma)  
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathisniveau/) 
+[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-darkred?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Th1sma) 
 [![CryptoHack Badge](https://img.shields.io/badge/CryptoHack-Profile-orange?style=flat&logo=cryptohack&logoColor=white)](https://cryptohack.org/user/Th1sma_/)
 
-</span>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=radical" alt="th1sma" height="212px" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th1sma&show_icons=true&locale=en&theme=radical" width="50%" alt="th1sma" /></p>
