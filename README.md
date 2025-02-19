@@ -21,5 +21,5 @@ First-year Master's degree student in Infrastructure and Cybersecurity Managemen
   <img src="https://github-readme-stats.vercel.app/api?username=th1sma&show_icons=true&locale=en&theme=dark" alt="th1sma" style="margin-left: 10px; width: 50%;" />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=dark" alt="th1sma" width="88%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=dark" alt="th1sma" width="95%"/></p>
 
