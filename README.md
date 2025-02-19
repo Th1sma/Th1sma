@@ -1,5 +1,6 @@
 <h1>Hi 👋, I'm Th1sma</h1>
 <h3>A passionate of cybersecurity, system and network</h3>
+First-year Master's degree student in Infrastructure and Cybersecurity Management of Information Systems, my goal is to continue deepening my knowledge in the field of cybersecurity, both for my personal development and to share my skills and experiences with others.
 
 <h3>Languages and Tools:</h3>
 <p align="left">
