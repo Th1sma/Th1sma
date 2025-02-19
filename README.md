@@ -9,7 +9,7 @@ First-year Master's degree student in Infrastructure and Cybersecurity Managemen
 <p>📊 -> Cybersecurity Project Management</p>
 <p>🏛️ -> SSI Governance & DORA Compliance</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=radical" alt="th1sma" height="215px" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=radical" alt="th1sma" height="212px" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=th1sma&show_icons=true&locale=en&theme=radical" width="50%" alt="th1sma" /></p>
 
