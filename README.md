@@ -1,4 +1,4 @@
-<h1>Hi 👋, I'm Th1sma</h1>
+<h1>Hi 👋</h1>
 <h3>📖 Bio Snippet</h3>
 First-year Master's degree student in Infrastructure and Cybersecurity Management, my goal is to continue deepening my knowledge in the field of cybersecurity, both for my personal development and to share my skills and experiences with others.
 
