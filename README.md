@@ -7,7 +7,7 @@ I am a first-year Master's student in Infrastructure and Cybersecurity Managemen
 <p>🖥️ -> Linux and Windows Systems</p>
 <p>🌐 -> Network Architecture</p>
 <p>📊 -> Cybersecurity Project Management</p>
-<p>🏛️ -> SSI Governance & DORA Compliance</p>
+<p>🏛️ -> SSI Governance & DORA Compliance (GRC)</p>
 
 <h3>⚡ My Platforms</h3>
 
