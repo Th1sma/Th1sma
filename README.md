@@ -16,7 +16,7 @@ I am a first-year Master's student in Infrastructure and Cybersecurity Managemen
 [![CryptoHack Badge](https://img.shields.io/badge/CryptoHack-Profile-orange?style=flat&logo=cryptohack&logoColor=white)](https://cryptohack.org/user/Th1sma_/)
 
 <div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=dark%22%20alt=%22th1sma" height="212px" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=en&layout=compact&theme=dark%22%20" alt="th1sma" height="212px" />
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=th1sma&theme=dark" alt="th1sma" style="margin-left: 10px; width: 50%;" />
 </div>
