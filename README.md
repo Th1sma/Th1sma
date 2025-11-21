@@ -1,6 +1,6 @@
 <h1>Hi 👋</h1>
 <h3>📖 Bio Snippet</h3>
-I am a first-year Master's student in Infrastructure and Cybersecurity Management. My goal is to keep learning more about cybersecurity for my own growth and to share my skills and experiences with others.
+I am a second-year Master's student in Infrastructure and Cybersecurity Management. My goal is to keep learning more about cybersecurity for my own growth and to share my skills and experiences with others.
 
 <h3>⚡My skills</h3>
 <p>🖥️ -> Linux and Windows Systems</p>
