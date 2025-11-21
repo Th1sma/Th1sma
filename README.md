@@ -3,11 +3,11 @@
 I am a first-year Master's student in Infrastructure and Cybersecurity Management. My goal is to keep learning more about cybersecurity for my own growth and to share my skills and experiences with others.
 
 <h3>⚡My skills</h3>
-<p>🧠 -> Ethical Hacking</p>
 <p>🖥️ -> Linux and Windows Systems</p>
 <p>🌐 -> Network Architecture</p>
 <p>📊 -> Cybersecurity Project Management</p>
-<p>🏛️ -> SSI Governance & DORA Compliance (GRC)</p>
+<p>🏛️ -> Cyber Governance & Regulatory Compliance (DORA, ISO 27001)</p>
+<p>🛡️ -> Risk Analysis & Management</p>
 
 <h3>⚡ My Platforms</h3>
 
