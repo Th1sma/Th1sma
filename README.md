@@ -16,11 +16,11 @@ Actuellement en alternance dans le domaine de la GRC (Gouvernance, Risques et Co
 
 [![Site Web](https://img.shields.io/badge/Site_Web-mathis--niveau.fr-blue?style=flat&logo=google-chrome&logoColor=white)](https://mathis-niveau.fr)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathis_Niveau-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathisniveau/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathis-0077B5?style=flat&logo=linkedIn&logoColor=white)](https://www.linkedin.com/in/mathisniveau/)
 
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Th1sma-darkred?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Th1sma)
 
-[![CryptoHack](https://img.shields.io/badge/CryptoHack-Th1sma__-orange?style=flat&logoColor=white)](https://cryptohack.org/user/Th1sma_/)
+[![CryptoHack](https://img.shields.io/badge/CryptoHack-Th1sma-orange?style=flat&logoColor=white)](https://cryptohack.org/user/Th1sma_/)
 
 ## 🎓 Certifications
 
