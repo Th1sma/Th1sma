@@ -10,7 +10,7 @@ Actuellement en alternance dans le domaine de la GRC (Gouvernance, Risques et Co
 - 📋 La gestion des risques (EBIOS RM)
 - ✅ La conformité (ISO 27001, DORA, RGPD, NIS2 (ReCyF))
 - 🔍 La gestion des vulnérabilités
-- 🌐 La sécurité des infrastructures IT
+- 🌐 La sécurité des systèmes et réseaux
 
 ## 🌐 Me retrouver
 
