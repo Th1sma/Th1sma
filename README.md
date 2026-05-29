@@ -8,7 +8,3 @@ I am a second-year Master's student in Infrastructure and Cybersecurity Manageme
 [![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-darkred?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Th1sma) 
 [![CryptoHack Badge](https://img.shields.io/badge/CryptoHack-Profile-orange?style=flat&logo=cryptohack&logoColor=white)](https://cryptohack.org/user/Th1sma_/)
 
-<div style="display: flex; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=th1sma&show_icons=true&locale=fr&layout=compact&theme=dark" alt="th1sma" height="212px" />
-</div>
-
