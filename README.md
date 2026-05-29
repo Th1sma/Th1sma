@@ -2,13 +2,6 @@
 <h3>📖 Bio Snippet</h3>
 I am a second-year Master's student in Infrastructure and Cybersecurity Management. My goal is to keep learning more about cybersecurity for my own growth and to share my skills and experiences with others.
 
-<h3>⚡My skills</h3>
-<p>🖥️ -> Linux and Windows Systems</p>
-<p>🌐 -> Network Architecture</p>
-<p>📊 -> Cybersecurity Project Management</p>
-<p>🏛️ -> Cyber Governance & Regulatory Compliance (DORA, ISO 27001)</p>
-<p>🛡️ -> Risk Analysis & Management</p>
-
 <h3>⚡ My Platforms</h3>
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathisniveau/) 
