@@ -2,8 +2,6 @@
   <img src="github-banner.png" alt="Bannière Github">
 </p>
 
-# Bonjour 👋
-
 Je m'appelle Mathis et je suis étudiant en Mastère Manager en Infrastructure et Cybersécurité des SI.
 
 Actuellement en alternance dans le domaine de la GRC (Gouvernance, Risques et Conformité), je m'intéresse particulièrement à :
