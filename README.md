@@ -1,10 +1,31 @@
-<h1>Hi 👋</h1>
-<h3>📖 Bio Snippet</h3>
-I am a second-year Master's student in Infrastructure and Cybersecurity Management. My goal is to keep learning more about cybersecurity for my own growth and to share my skills and experiences with others.
+<p align="center">
+  <img src="assets/banner.png" alt="Bannière Github">
+</p>
 
-<h3>⚡ My Platforms</h3>
+# Bonjour 👋
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathisniveau/) 
-[![TryHackMe Badge](https://img.shields.io/badge/TryHackMe-Profile-darkred?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Th1sma) 
-[![CryptoHack Badge](https://img.shields.io/badge/CryptoHack-Profile-orange?style=flat&logo=cryptohack&logoColor=white)](https://cryptohack.org/user/Th1sma_/)
+Je m'appelle Mathis et je suis étudiant en Mastère Manager en Infrastructure et Cybersécurité des SI.
 
+Actuellement en alternance dans le domaine de la GRC (Gouvernance, Risques et Conformité), je m'intéresse particulièrement à :
+
+- 🛡️ La gouvernance SSI
+- 📋 La gestion des risques (EBIOS RM)
+- ✅ La conformité (ISO 27001, DORA, RGPD, NIS2 (ReCyF))
+- 🔍 La gestion des vulnérabilités
+- 🌐 La sécurité des infrastructures IT
+
+## 🌐 Me retrouver
+
+[![Site Web](https://img.shields.io/badge/Site_Web-mathis--niveau.fr-blue?style=flat&logo=google-chrome&logoColor=white)](https://mathis-niveau.fr)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Mathis_Niveau-0D76A8?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mathisniveau/)
+
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Th1sma-darkred?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/r/p/Th1sma)
+
+[![CryptoHack](https://img.shields.io/badge/CryptoHack-Th1sma__-orange?style=flat&logoColor=white)](https://cryptohack.org/user/Th1sma_/)
+
+## 🎓 Certifications
+
+- Skillfront ISO/IEC 27001:2022 Information Security Associate
+- Qualys Certified Specialist VMDR
+- Cisco CCNA 1 & 2
