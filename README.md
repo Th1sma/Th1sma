@@ -25,5 +25,5 @@ Actuellement en alternance dans le domaine de la GRC (Gouvernance, Risques et Co
 ## 🎓 Certifications
 
 - Skillfront ISO/IEC 27001:2022 Information Security Associate
-- Qualys Certified Specialist VMDR
+- Qualys Certified Specialist VMDR (Vulnerability Management, Detection, and Response)
 - Cisco CCNA 1 & 2
