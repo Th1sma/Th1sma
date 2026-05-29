@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="github-banner.png" alt="Bannière Github">
+  <img src="github-header-banner.png" alt="Bannière Github">
 </p>
 
 Je m'appelle Mathis et je suis étudiant en Mastère Manager en Infrastructure et Cybersécurité des SI.
