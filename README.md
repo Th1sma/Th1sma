@@ -4,7 +4,7 @@
 
 Titulaire d'un bac+5 en cybersécurité, je souhaite aujourd'hui poursuivre mon parcours professionnel dans le domaine de la GRC (Gouvernance, Risques et Conformité).
 
-Fort d'une expérience en alternance dans ce domaine, je suis actuellement à la recherche d'une nouvelle opportunité me permettant de mettre à profit mes compétences et de continuer à évoluer sur les enjeux de gouvernance et de cybersécurité.
+Fort d'une expérience en alternance dans ce domaine, **je suis actuellement à la recherche d'une nouvelle opportunité me permettant de mettre à profit mes compétences et de continuer à évoluer sur les sujets de gouvernance et de cybersécurité**.
 
 - 🛡️ La gouvernance SSI
 - 📋 La gestion des risques (EBIOS RM)
