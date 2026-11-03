@@ -6,9 +6,9 @@ Titulaire d'un bac+5 en cybersécurité, je souhaite aujourd'hui poursuivre mon 
 
 Fort d'une expérience en alternance dans ce domaine, **je suis actuellement à la recherche d'une nouvelle opportunité me permettant de mettre à profit mes compétences et de continuer à évoluer sur les sujets de gouvernance et de cybersécurité**.
 
-- 🛡️ La gouvernance SSI
-- 📋 La gestion des risques (EBIOS RM)
-- ✅ La conformité (ISO 27001, DORA, RGPD, NIS2 (ReCyF))
+- 🛡️ La gouvernance et le pilotage du SMSI
+- 📋 La gestion des risques (EBIOS RM, ISO/IEC 27005)
+- ✅ La conformité (ISO/IEC 27001, DORA, RGPD, NIS2 (ReCyF), CRA)
 - 🔍 La gestion des vulnérabilités et l'analyse des menaces
 - 🌐 La sécurité des systèmes et réseaux
 
